@@ -209,7 +209,8 @@ html, body {
 .header {
     padding: 40px 0;
     min-height: 695px;
-
+    min-height: 100vh;
+    
     display: flex;
     justify-content: center;
     align-items: center;
